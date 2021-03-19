@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T14:57:20.787Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="OcyPUjGGDJa41HOMC8H0" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T15:03:31.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="DCCOrkpTMz66EvWjsg3x" version="14.4.8" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
-    <mxGraphModel dx="1773" dy="1750" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="1676" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,7 +569,16 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1156" y="403" />
-              <mxPoint x="1762" y="403" />
+              <mxPoint x="1859" y="403" />
+              <mxPoint x="1859" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYA-D8QlAUSVxSxn-P2U-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XdFQskOgCR6pZoDCo-xK-1" target="rYA-D8QlAUSVxSxn-P2U-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1156" y="416" />
+              <mxPoint x="2032" y="416" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -607,7 +616,13 @@
           <mxGeometry x="610.9999999999999" y="1302.0000000000002" width="66.35" height="66.35" as="geometry" />
         </mxCell>
         <mxCell id="LqPqy2dBOoxVnYao7lDy-9" value="PRECISION&lt;br&gt;https://github.com/rovh/Set-Precise-Mesh" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_format_align_right_48px-128.png;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="1729.36" y="260" width="65" height="65" as="geometry" />
+          <mxGeometry x="1820.36" y="260" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="rYA-D8QlAUSVxSxn-P2U-1" value="BLENDER KIT&lt;br&gt;Asset manager&lt;br&gt;&lt;br&gt;INTEGRADO" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pawn-shop/64/Pawnshop_7-128.png" vertex="1" parent="1">
+          <mxGeometry x="1997" y="257.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rYA-D8QlAUSVxSxn-P2U-4" value="ARCHIPACK" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.office_building;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="267.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
