@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T14:22:12.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="EvnHHhyooXN83EsCPAV7" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T14:25:01.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="RrLO8dbYWX5SW-MgPlKt" version="14.4.9" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
     <mxGraphModel dx="1773" dy="1676" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -498,6 +498,9 @@
         <mxCell id="SPwv_Y5hyJBJaMLJqdEY-162" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;quot;helvetica&amp;quot;&quot;&gt;BY GEN&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;https://gumroad.com/l/BY-GEN&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=5;strokeColor=#000000;rounded=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1774.79" y="843.15" width="195" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="SAxU8aYIDfW3dslmT1Zd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPwv_Y5hyJBJaMLJqdEY-163" target="SAxU8aYIDfW3dslmT1Zd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SPwv_Y5hyJBJaMLJqdEY-163" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;BoxCutter&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=5;strokeColor=#000000;rounded=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1885" y="669.5" width="91" height="39" as="geometry" />
         </mxCell>
@@ -618,6 +621,9 @@
         <mxCell id="LqPqy2dBOoxVnYao7lDy-9" value="PRECISION&lt;br&gt;https://github.com/rovh/Set-Precise-Mesh" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_format_align_right_48px-128.png;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="1820.36" y="260" width="65" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="SAxU8aYIDfW3dslmT1Zd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYA-D8QlAUSVxSxn-P2U-1" target="SAxU8aYIDfW3dslmT1Zd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rYA-D8QlAUSVxSxn-P2U-1" value="BLENDER KIT&lt;br&gt;Asset manager&lt;br&gt;&lt;br&gt;INTEGRADO" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/pawn-shop/64/Pawnshop_7-128.png" parent="1" vertex="1">
           <mxGeometry x="1997" y="257.5" width="70" height="70" as="geometry" />
         </mxCell>
@@ -625,7 +631,10 @@
           <mxGeometry x="1656" y="267.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAxU8aYIDfW3dslmT1Zd-1" value="Blender Assets" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.blenderkit.com/static/img/blenderkit-logo-hexa-256x296.c8462b410049.png;" vertex="1" parent="1">
-          <mxGeometry x="2132" y="265" width="58.82" height="68" as="geometry" />
+          <mxGeometry x="2132" y="258.5" width="58.82" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SAxU8aYIDfW3dslmT1Zd-2" value="KIT OPS&#xa;https://www.kit-ops.com/" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets.website-files.com/5b64005af1257425d3b926f1/5f166e4c0342427acd7f0f57_KOPS2protrans.png;" vertex="1" parent="1">
+          <mxGeometry x="1891.79" y="547.25" width="78" height="44.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
