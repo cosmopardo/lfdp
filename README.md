@@ -1,2 +1,2 @@
 # lfdp
-Exploration in Blender, with Sverchok addon, about La Fabrica de Poliedros
+Exploration in Blender, with Sverchok addon, and something about La Fabrica de Poliedros
